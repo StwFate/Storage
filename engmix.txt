@@ -493,7 +493,7 @@ acclimated
 acclimates
 acclimating
 acclimation
-acclimatisation
+acclimatization
 acclimatise
 acclimatised
 acclimatises
@@ -616,8 +616,8 @@ accurateness
 accursed
 accusal
 accusals
-accusation
-accusations
+accuzation
+accuzations
 accusative
 accusatives
 accusatorial
@@ -809,7 +809,7 @@ actress
 actresses
 acts
 actual
-actualisation
+actualization
 actualise
 actualised
 actualises
@@ -2145,7 +2145,7 @@ alphabet
 alphabetic
 alphabetical
 alphabetically
-alphabetisation
+alphabetization
 alphabetise
 alphabetised
 alphabetises
@@ -2378,7 +2378,7 @@ amercing
 america
 american
 americana
-americanisation
+americanization
 americanise
 americanised
 americanises
@@ -2473,7 +2473,7 @@ amorously
 amorousness
 amorphous
 amorphously
-amortisation
+amortization
 amortise
 amortised
 amortisement
@@ -2586,7 +2586,7 @@ anaesthesiology
 anaesthetic
 anaesthetically
 anaesthetics
-anaesthetisation
+anaesthetization
 anaesthetise
 anaesthetised
 anaesthetises
@@ -2804,7 +2804,7 @@ angliae
 anglican
 anglicanism
 anglicans
-anglicisation
+anglicization
 anglicise
 anglicised
 anglicises
@@ -3138,7 +3138,8 @@ anticlericalism
 anticlimactic
 anticlimactically
 antidisestablishmentarianism
-establishmentarianism
+establishmentarian
+disestablishmentarianism
 disestablishment
 anticlimax
 anticlimaxes
@@ -4545,7 +4546,7 @@ atolls
 atom
 atomic
 atomically
-atomisation
+atomization
 atomise
 atomised
 atomiser
@@ -4836,8 +4837,8 @@ authoress
 authoresses
 authorial
 authoring
-authorisation
-authorisations
+authorization
+authorizations
 authorise
 authorised
 authorises
@@ -5436,7 +5437,7 @@ balinese
 baling
 balk
 balkan
-balkanisation
+balkanization
 balkanise
 balkanised
 balkanises
@@ -5971,8 +5972,8 @@ basswood
 basswoods
 bast
 bastard
-bastardisation
-bastardisations
+bastardization
+bastardizations
 bastardise
 bastardised
 bastardises
@@ -8544,7 +8545,7 @@ bovine
 bovines
 bovril
 bow
-bowdlerisation
+bowdlerization
 bowdlerise
 bowdlerised
 bowdlerises
@@ -9632,7 +9633,7 @@ bureaucracy
 bureaucrat
 bureaucratic
 bureaucratically
-bureaucratisation
+bureaucratization
 bureaucratise
 bureaucratised
 bureaucratises
@@ -10367,7 +10368,7 @@ canadian
 canadians
 canaille
 canal
-canalisation
+canalization
 canalise
 canalised
 canalises
@@ -10459,7 +10460,7 @@ canneries
 cannery
 cannes
 cannibal
-cannibalisation
+cannibalization
 cannibalise
 cannibalised
 cannibalises
@@ -10502,7 +10503,7 @@ canonical
 canonically
 canonici
 canonicum
-canonisation
+canonization
 canonise
 canonised
 canonises
@@ -10614,7 +10615,7 @@ capillarity
 capillary
 capita
 capital
-capitalisation
+capitalization
 capitalise
 capitalised
 capitalises
@@ -10762,7 +10763,7 @@ carbonating
 carbonation
 carbonic
 carboniferous
-carbonisation
+carbonization
 carbonise
 carbonised
 carbonises
@@ -11270,8 +11271,8 @@ categoric
 categorical
 categorically
 categories
-categorisation
-categorisations
+categorization
+categorizations
 categorise
 categorised
 categorises
@@ -11368,7 +11369,7 @@ causal
 causalities
 causality
 causally
-causation
+cauzation
 causative
 cause
 caused
@@ -11381,8 +11382,8 @@ caustic
 caustically
 causticity
 caustics
-cauterisation
-cauterisations
+cauterization
+cauterizations
 cauterise
 cauterised
 cauterises
@@ -11605,7 +11606,7 @@ centipede
 centipedes
 central
 centralisatiion
-centralisation
+centralization
 centralise
 centralised
 centralises
@@ -11711,7 +11712,7 @@ cervix
 cervixes
 cesium
 cessare
-cessation
+ceszation
 cesser
 cession
 cessions
@@ -11943,8 +11944,8 @@ chapter
 chapters
 char
 character
-characterisation
-characterisations
+characterization
+characterizations
 characterise
 characterised
 characterises
@@ -12925,8 +12926,8 @@ civilian
 civilians
 civilis
 civilisable
-civilisation
-civilisations
+civilization
+civilizations
 civilise
 civilised
 civilises
@@ -13978,7 +13979,7 @@ colonialists
 colonials
 colonic
 colonies
-colonisation
+colonization
 colonise
 colonised
 coloniser
@@ -14229,7 +14230,7 @@ commenting
 comments
 commerce
 commercial
-commercialisation
+commercialization
 commercialise
 commercialised
 commercialises
@@ -14356,7 +14357,7 @@ communiqu
 communiqus
 communiqus
 communis
-communisation
+communization
 communise
 communised
 communises
@@ -14418,7 +14419,7 @@ comparison
 comparisons
 compartment
 compartmental
-compartmentalisation
+compartmentalization
 compartmentalise
 compartmentalised
 compartmentalises
@@ -14457,8 +14458,8 @@ compensate
 compensated
 compensates
 compensating
-compensation
-compensations
+compenzation
+compenzations
 compensator
 compensators
 compensatory
@@ -14643,7 +14644,7 @@ computations
 compute
 computed
 computer
-computerisation
+computerization
 computerise
 computerised
 computerises
@@ -14719,7 +14720,7 @@ conception
 conceptions
 concepts
 conceptual
-conceptualisation
+conceptualization
 conceptualise
 conceptualised
 conceptualises
@@ -14855,8 +14856,8 @@ condemning
 condemns
 condensable
 condensate
-condensation
-condensations
+condenzation
+condenzations
 condense
 condensed
 condenser
@@ -15534,7 +15535,7 @@ contain
 containable
 contained
 container
-containerisation
+containerization
 containerise
 containerised
 containerises
@@ -15844,12 +15845,12 @@ convergent
 converges
 converging
 conversant
-conversation
-conversational
-conversationalist
-conversationalists
-conversationally
-conversations
+converzation
+converzational
+converzationalist
+converzationalists
+converzationally
+converzations
 converse
 conversed
 conversely
@@ -17540,7 +17541,7 @@ cryptography
 crypts
 crystal
 crystalline
-crystallisation
+crystallization
 crystallise
 crystallised
 crystallises
@@ -17893,8 +17894,8 @@ customer
 customers
 customhouse
 customisable
-customisation
-customisations
+customization
+customizations
 customise
 customised
 customises
@@ -18649,7 +18650,7 @@ decennium
 decenniums
 decent
 decently
-decentralisation
+decentralization
 decentralise
 decentralised
 decentralises
@@ -18683,7 +18684,7 @@ deciliters
 decilitre
 decilitres
 decimal
-decimalisation
+decimalization
 decimalise
 decimalised
 decimalises
@@ -18867,7 +18868,7 @@ decretal
 decretals
 decried
 decries
-decriminalisation
+decriminalization
 decriminalise
 decriminalised
 decriminalises
@@ -19212,7 +19213,7 @@ dehiscent
 dehisces
 dehiscing
 dehors
-dehumanisation
+dehumanization
 dehumanise
 dehumanised
 dehumanises
@@ -19392,7 +19393,7 @@ delve
 delved
 delves
 delving
-demagnetisation
+demagnetization
 demagnetise
 demagnetised
 demagnetises
@@ -19458,7 +19459,7 @@ demigod
 demigods
 demijohn
 demijohns
-demilitarisation
+demilitarization
 demilitarise
 demilitarised
 demilitarises
@@ -19468,7 +19469,7 @@ demilitarize
 demilitarized
 demilitarizes
 demilitarizing
-demineralisation
+demineralization
 demineralization
 demise
 demised
@@ -19486,7 +19487,7 @@ demo
 demob
 demobbed
 demobbing
-demobilisation
+demobilization
 demobilise
 demobilised
 demobilises
@@ -19502,7 +19503,7 @@ democracy
 democrat
 democratic
 democratically
-democratisation
+democratization
 democratise
 democratised
 democratises
@@ -19534,7 +19535,7 @@ demolishing
 demolition
 demolitions
 demon
-demonetisation
+demonetization
 demonetization
 demoniac
 demoniacal
@@ -19566,7 +19567,7 @@ demonstratively
 demonstratives
 demonstrator
 demonstrators
-demoralisation
+demoralization
 demoralise
 demoralised
 demoralises
@@ -19600,14 +19601,14 @@ demurrer
 demurrers
 demurring
 demurs
-demutualisation
+demutualization
 demutualization
 demystification
 demystified
 demystifies
 demystify
 demystifying
-demythologisation
+demythologization
 demythologise
 demythologised
 demythologises
@@ -19623,7 +19624,7 @@ denariates
 denarii
 denarius
 denary
-denationalisation
+denationalization
 denationalise
 denationalised
 denationalises
@@ -19633,7 +19634,7 @@ denationalize
 denationalized
 denationalizes
 denationalizing
-denaturalisation
+denaturalization
 denaturalise
 denaturalised
 denaturalises
@@ -19764,7 +19765,7 @@ denying
 deodand
 deodorant
 deodorants
-deodorisation
+deodorization
 deodorise
 deodorised
 deodoriser
@@ -19777,7 +19778,7 @@ deodorizer
 deodorizers
 deodorizes
 deodorizing
-deoxidisation
+deoxidization
 deoxidise
 deoxidised
 deoxidises
@@ -19797,7 +19798,7 @@ departed
 departing
 department
 departmental
-departmentalisation
+departmentalization
 departmentalise
 departmentalised
 departmentalises
@@ -19831,7 +19832,7 @@ dependently
 dependents
 depending
 depends
-depersonalisation
+depersonalization
 depersonalise
 depersonalised
 depersonalises
@@ -19877,7 +19878,7 @@ deploying
 deployment
 deployments
 deploys
-depolarisation
+depolarization
 depolarise
 depolarised
 depolarises
@@ -19974,7 +19975,7 @@ depressively
 depressives
 depressor
 depressors
-depressurisation
+depressurization
 depressurise
 depressurised
 depressurises
@@ -20104,7 +20105,7 @@ desalinated
 desalinates
 desalinating
 desalination
-desalinisation
+desalinization
 desalinise
 desalinised
 desalinises
@@ -20166,7 +20167,7 @@ deselected
 deselecting
 deselection
 deselects
-desensitisation
+desensitization
 desensitise
 desensitised
 desensitises
@@ -20895,10 +20896,10 @@ diggings
 digit
 digital
 digitalis
-digitalisation
+digitalization
 digitalization
 digitally
-digitisation
+digitization
 digitise
 digitised
 digitiser
@@ -21794,7 +21795,7 @@ disordering
 disorderliness
 disorderly
 disorders
-disorganisation
+disorganization
 disorganise
 disorganised
 disorganises
@@ -21849,8 +21850,8 @@ dispensability
 dispensable
 dispensaries
 dispensary
-dispensation
-dispensations
+dispenzation
+dispenzations
 dispense
 dispensed
 dispenser
@@ -22958,8 +22959,8 @@ dramatic
 dramatically
 dramatics
 dramatis
-dramatisation
-dramatisations
+dramatization
+dramatizations
 dramatise
 dramatised
 dramatises
@@ -25648,8 +25649,8 @@ equably
 equal
 equaled
 equaling
-equalisation
-equalisations
+equalization
+equalizations
 equalise
 equalised
 equaliser
@@ -26996,7 +26997,7 @@ extemporaneous
 extemporaneously
 extemporary
 extempore
-extemporisation
+extemporization
 extemporise
 extemporised
 extemporises
@@ -27042,7 +27043,7 @@ exterminator
 exterminators
 extern
 external
-externalisation
+externalization
 externalise
 externalised
 externalises
@@ -27311,8 +27312,8 @@ factorial
 factorials
 factories
 factoring
-factorisation
-factorisations
+factorization
+factorizations
 factorise
 factorised
 factorises
@@ -27487,7 +27488,7 @@ fame
 famed
 familial
 familiar
-familiarisation
+familiarization
 familiarise
 familiarised
 familiarises
@@ -27861,7 +27862,7 @@ fecundating
 fecundity
 fed
 federal
-federalisation
+federalization
 federalise
 federalised
 federalises
@@ -28067,8 +28068,8 @@ ferrying
 ferryman
 ferrymen
 fertile
-fertilisation
-fertilisations
+fertilization
+fertilizations
 fertilise
 fertilised
 fertiliser
@@ -29783,7 +29784,7 @@ forma
 formability
 formal
 formaldehyde
-formalisation
+formalization
 formalise
 formalised
 formalises
@@ -29919,7 +29920,7 @@ forwent
 fosse
 fosses
 fossil
-fossilisation
+fossilization
 fossilise
 fossilised
 fossilises
@@ -30117,7 +30118,7 @@ frappes
 fraser
 fraternal
 fraternally
-fraternisation
+fraternization
 fraternise
 fraternised
 fraternises
@@ -30938,7 +30939,7 @@ galoshes
 gals
 galsworthy
 galvanic
-galvanisation
+galvanization
 galvanise
 galvanised
 galvanises
@@ -31395,8 +31396,8 @@ genealogists
 genealogy
 genera
 general
-generalisation
-generalisations
+generalization
+generalizations
 generalise
 generalised
 generalises
@@ -31879,7 +31880,7 @@ gladstone
 gladys
 glamor
 glamorgan
-glamorisation
+glamorization
 glamorise
 glamorised
 glamorises
@@ -34021,7 +34022,7 @@ harmonics
 harmonies
 harmonious
 harmoniously
-harmonisation
+harmonization
 harmonise
 harmonised
 harmonises
@@ -35423,7 +35424,7 @@ homogenates
 homogeneity
 homogeneous
 homogeneously
-homogenisation
+homogenization
 homogenise
 homogenised
 homogenises
@@ -35734,8 +35735,8 @@ hospices
 hospitable
 hospitably
 hospital
-hospitalisation
-hospitalisations
+hospitalization
+hospitalizations
 hospitalise
 hospitalised
 hospitalises
@@ -35967,7 +35968,7 @@ human
 humane
 humanely
 humaniores
-humanisation
+humanization
 humanise
 humanised
 humanises
@@ -36200,11 +36201,11 @@ hwy
 hyacinth
 hyacinths
 hyaline
-hyalinisation
+hyalinization
 hyalinization
 hyalite
 hybrid
-hybridisation
+hybridization
 hybridise
 hybridised
 hybridises
@@ -36555,8 +36556,8 @@ idaho
 ide
 idea
 ideal
-idealisation
-idealisations
+idealization
+idealizations
 idealise
 idealised
 idealises
@@ -36643,7 +36644,7 @@ idolatries
 idolatrous
 idolatrously
 idolatry
-idolisation
+idolization
 idolise
 idolised
 idolises
@@ -36895,7 +36896,7 @@ immingham
 immix
 immobile
 immobilis
-immobilisation
+immobilization
 immobilise
 immobilised
 immobilises
@@ -36940,8 +36941,8 @@ immovable
 immovables
 immovably
 immune
-immunisation
-immunisations
+immunization
+immunizations
 immunise
 immunised
 immunises
@@ -37318,8 +37319,8 @@ improvidence
 improvident
 improvidently
 improving
-improvisation
-improvisations
+improvization
+improvizations
 improvise
 improvised
 improviser
@@ -37909,7 +37910,7 @@ indistinguishably
 indite
 indium
 individual
-individualisation
+individualization
 individualise
 individualised
 individualises
@@ -37989,7 +37990,7 @@ indument
 induments
 indus
 industrial
-industrialisation
+industrialization
 industrialise
 industrialised
 industrialises
@@ -38432,8 +38433,8 @@ iniquity
 initial
 initialed
 initialing
-initialisation
-initialisations
+initialization
+initializations
 initialise
 initialised
 initialises
@@ -38800,7 +38801,7 @@ institutes
 instituting
 institution
 institutional
-institutionalisation
+institutionalization
 institutionalise
 institutionalised
 institutionalises
@@ -39172,7 +39173,7 @@ intermixtures
 intermolecular
 intern
 internal
-internalisation
+internalization
 internalise
 internalised
 internalises
@@ -39185,7 +39186,7 @@ internalizing
 internally
 internals
 international
-internationalisation
+internationalization
 internationalise
 internationalised
 internationalises
@@ -39657,7 +39658,7 @@ ionesco
 ionian
 ionians
 ionic
-ionisation
+ionization
 ionise
 ionised
 ionises
@@ -39944,7 +39945,7 @@ ital
 italian
 italians
 italic
-italicisation
+italicization
 italicise
 italicised
 italicises
@@ -39965,7 +39966,7 @@ itchiness
 itching
 itchy
 item
-itemisation
+itemization
 itemise
 itemised
 itemises
@@ -42328,7 +42329,7 @@ legal
 legales
 legalese
 legalis
-legalisation
+legalization
 legalise
 legalised
 legalises
@@ -42408,7 +42409,7 @@ legitimations
 legitimatise
 legitimatize
 legitime
-legitimisation
+legitimization
 legitimise
 legitimised
 legitimises
@@ -42692,7 +42693,7 @@ libelously
 libels
 liber
 liberal
-liberalisation
+liberalization
 liberalise
 liberalised
 liberalises
@@ -43339,7 +43340,7 @@ loca
 local
 locale
 locales
-localisation
+localization
 localise
 localised
 localises
@@ -44225,7 +44226,7 @@ magnesium
 magnet
 magnetic
 magnetically
-magnetisation
+magnetization
 magnetise
 magnetised
 magnetiser
@@ -44526,7 +44527,7 @@ malty
 malum
 malvern
 malverns
-malversation
+malverzation
 mama
 mamas
 mamba
@@ -45213,7 +45214,7 @@ materfamilias
 materia
 materiae
 material
-materialisation
+materialization
 materialise
 materialised
 materialises
@@ -45368,7 +45369,7 @@ maxima
 maximal
 maximally
 maximilian
-maximisation
+maximization
 maximise
 maximised
 maximises
@@ -45548,7 +45549,7 @@ mechanic
 mechanical
 mechanically
 mechanics
-mechanisation
+mechanization
 mechanise
 mechanised
 mechanises
@@ -45793,7 +45794,7 @@ memorializes
 memorializing
 memorials
 memories
-memorisation
+memorization
 memorise
 memorised
 memorises
@@ -45905,7 +45906,7 @@ mercenaries
 mercenarily
 mercenary
 mercer
-mercerisation
+mercerization
 mercerise
 mercerised
 mercerises
@@ -46677,7 +46678,7 @@ mingling
 mini
 miniature
 miniatures
-miniaturisation
+miniaturization
 miniaturise
 miniaturised
 miniaturises
@@ -46710,7 +46711,7 @@ minimalist
 minimalists
 minimally
 minimis
-minimisation
+minimization
 minimise
 minimised
 minimises
@@ -47301,8 +47302,8 @@ mobile
 mobiles
 mobilia
 mobilier
-mobilisation
-mobilisations
+mobilization
+mobilizations
 mobilise
 mobilised
 mobilises
@@ -47356,7 +47357,7 @@ moderato
 moderator
 moderators
 modern
-modernisation
+modernization
 modernise
 modernised
 modernises
@@ -47681,7 +47682,7 @@ monoplane
 monoplanes
 monopolia
 monopolies
-monopolisation
+monopolization
 monopolise
 monopolised
 monopolises
@@ -47842,7 +47843,7 @@ moraine
 moraines
 moral
 morale
-moralisation
+moralization
 moralise
 moralised
 moraliser
@@ -48598,7 +48599,7 @@ mutton
 muttons
 mutts
 mutual
-mutualisation
+mutualization
 mutuality
 mutualization
 mutually
@@ -48869,7 +48870,7 @@ nathan
 nathaniel
 nation
 national
-nationalisation
+nationalization
 nationalise
 nationalised
 nationalises
@@ -48912,7 +48913,7 @@ natura
 naturae
 natural
 naturale
-naturalisation
+naturalization
 naturalise
 naturalised
 naturalises
@@ -49298,7 +49299,7 @@ neutered
 neutering
 neuters
 neutral
-neutralisation
+neutralization
 neutralise
 neutralised
 neutraliser
@@ -49757,7 +49758,7 @@ norm
 norma
 normal
 normalcy
-normalisation
+normalization
 normalise
 normalised
 normalises
@@ -51019,8 +51020,8 @@ optima
 optimal
 optimality
 optimally
-optimisation
-optimisations
+optimization
+optimizations
 optimise
 optimised
 optimiser
@@ -51155,10 +51156,10 @@ organelles
 organic
 organically
 organicity
-organisation
-organisational
-organisationally
-organisations
+organization
+organizational
+organizationally
+organizations
 organise
 organised
 organiser
@@ -51776,7 +51777,7 @@ overcalled
 overcalling
 overcalls
 overcame
-overcapitalisation
+overcapitalization
 overcapitalise
 overcapitalised
 overcapitalises
@@ -51807,7 +51808,7 @@ overcompensate
 overcompensated
 overcompensates
 overcompensating
-overcompensation
+overcompenzation
 overcook
 overcooked
 overcooking
@@ -52140,7 +52141,7 @@ oversleeping
 oversleeps
 overslept
 oversold
-overspecialisation
+overspecialization
 overspecialise
 overspecialised
 overspecialises
@@ -52340,7 +52341,7 @@ oxidation
 oxidative
 oxide
 oxides
-oxidisation
+oxidization
 oxidise
 oxidised
 oxidiser
@@ -53200,7 +53201,7 @@ participles
 particle
 particles
 particular
-particularisation
+particularization
 particularise
 particularised
 particularises
@@ -53314,7 +53315,7 @@ pasternak
 pasterns
 pastes
 pasteur
-pasteurisation
+pasteurization
 pasteurise
 pasteurised
 pasteurises
@@ -53513,7 +53514,7 @@ paunchiness
 paunchy
 pauper
 pauperis
-pauperisation
+pauperization
 pauperise
 pauperised
 pauperises
@@ -53825,7 +53826,7 @@ pembrokeshire
 pemmican
 pen
 penal
-penalisation
+penalization
 penalise
 penalised
 penalises
@@ -55978,7 +55979,7 @@ poky
 poland
 polar
 polaris
-polarisation
+polarization
 polarise
 polarised
 polarises
@@ -56040,7 +56041,7 @@ political
 politically
 politician
 politicians
-politicisation
+politicization
 politicise
 politicised
 politicises
@@ -56137,7 +56138,7 @@ polymath
 polymaths
 polymer
 polymeric
-polymerisation
+polymerization
 polymerise
 polymerised
 polymerises
@@ -56308,7 +56309,7 @@ pops
 popsicle
 populace
 popular
-popularisation
+popularization
 popularise
 popularised
 popularises
@@ -56872,7 +56873,7 @@ precondition
 preconditioned
 preconditioning
 preconditions
-preconisation
+preconization
 preconization
 preconscious
 precontract
@@ -57233,7 +57234,7 @@ pressure
 pressured
 pressures
 pressuring
-pressurisation
+pressurization
 pressurise
 pressurised
 pressurises
@@ -57482,7 +57483,7 @@ prioresses
 priori
 priories
 priorities
-prioritisation
+prioritization
 prioritise
 prioritised
 prioritises
@@ -57524,7 +57525,7 @@ privately
 privates
 privation
 privations
-privatisation
+privatization
 privatise
 privatised
 privatises
@@ -58569,14 +58570,14 @@ pulsate
 pulsated
 pulsates
 pulsating
-pulsation
+pulzation
 pulsator
 pulsators
 pulse
 pulsed
 pulses
 pulsing
-pulverisation
+pulverization
 pulverise
 pulverised
 pulverises
@@ -59479,7 +59480,7 @@ radiation
 radiator
 radiators
 radical
-radicalisation
+radicalization
 radicalise
 radicalised
 radicalises
@@ -59735,7 +59736,7 @@ randier
 randiest
 randolph
 random
-randomisation
+randomization
 randomise
 randomised
 randomiser
@@ -59928,8 +59929,8 @@ ration
 rational
 rationale
 rationales
-rationalisation
-rationalisations
+rationalization
+rationalizations
 rationalise
 rationalised
 rationalises
@@ -60148,8 +60149,8 @@ realignment
 realignments
 realigns
 realisable
-realisation
-realisations
+realization
+realizations
 realise
 realised
 realises
@@ -60391,7 +60392,7 @@ recanted
 recanting
 recants
 recap
-recapitalisation
+recapitalization
 recapitalise
 recapitalised
 recapitalises
@@ -60804,8 +60805,8 @@ recursive
 recursively
 recusant
 recusants
-recusation
-recusations
+recuzation
+recuzations
 recuse
 recused
 recuses
@@ -61322,7 +61323,7 @@ regroups
 regula
 regulae
 regular
-regularisation
+regularization
 regularise
 regularised
 regularises
@@ -61420,7 +61421,7 @@ reincarnation
 reincarnations
 reindeer
 reindeers
-reindustrialisation
+reindustrialization
 reindustrialise
 reindustrialised
 reindustrialises
@@ -61941,8 +61942,8 @@ reorder
 reordered
 reordering
 reorders
-reorganisation
-reorganisations
+reorganization
+reorganizations
 reorganise
 reorganised
 reorganises
@@ -62877,8 +62878,8 @@ revalidated
 revalidates
 revalidating
 revalidation
-revalorisation
-revalorisations
+revalorization
+revalorizations
 revalorise
 revalorised
 revalorises
@@ -63023,7 +63024,7 @@ revisiting
 revisits
 revisor
 revisors
-revitalisation
+revitalization
 revitalise
 revitalised
 revitalises
@@ -65929,7 +65930,7 @@ sectoring
 sectors
 sects
 secular
-secularisation
+secularization
 secularise
 secularised
 secularises
@@ -65957,7 +65958,7 @@ secures
 securest
 securing
 securities
-securitisation
+securitization
 securitization
 security
 secus
@@ -66246,22 +66247,22 @@ seniority
 seniors
 senna
 sensate
-sensation
-sensational
-sensationalise
-sensationalised
-sensationalises
-sensationalising
-sensationalism
-sensationalist
-sensationalistic
-sensationalists
-sensationalize
-sensationalized
-sensationalizes
-sensationalizing
-sensationally
-sensations
+senzation
+senzational
+senzationalise
+senzationalised
+senzationalises
+senzationalising
+senzationalism
+senzationalist
+senzationalistic
+senzationalists
+senzationalize
+senzationalized
+senzationalizes
+senzationalizing
+senzationally
+senzations
 sense
 sensed
 senseless
@@ -66273,7 +66274,7 @@ sensibility
 sensible
 sensibly
 sensing
-sensitisation
+sensitization
 sensitise
 sensitised
 sensitises
@@ -66445,8 +66446,8 @@ sergeants
 sergei
 seri
 serial
-serialisation
-serialisations
+serialization
+serializations
 serialise
 serialised
 serialises
@@ -69006,7 +69007,7 @@ sociability
 sociable
 sociably
 social
-socialisation
+socialization
 socialise
 socialised
 socialises
@@ -69143,7 +69144,7 @@ solely
 solemn
 solemner
 solemnest
-solemnisation
+solemnization
 solemnise
 solemnised
 solemnises
@@ -69693,7 +69694,7 @@ spears
 spearwort
 spec
 special
-specialisation
+specialization
 specialise
 specialised
 specialises
@@ -70455,7 +70456,7 @@ stabbed
 stabbing
 stabile
 stabiles
-stabilisation
+stabilization
 stabilise
 stabilised
 stabiliser
@@ -70613,7 +70614,7 @@ stanchion
 stanchions
 stand
 standard
-standardisation
+standardization
 standardise
 standardised
 standardises
@@ -70969,7 +70970,7 @@ stereotyping
 stereotypy
 sterile
 sterilely
-sterilisation
+sterilization
 sterilise
 sterilised
 steriliser
@@ -71069,7 +71070,7 @@ stigmas
 stigmata
 stigmatic
 stigmatically
-stigmatisation
+stigmatization
 stigmatise
 stigmatised
 stigmatises
@@ -71777,7 +71778,7 @@ styled
 styles
 styli
 styling
-stylisation
+stylization
 stylise
 stylised
 stylises
@@ -72024,7 +72025,7 @@ subsidiaries
 subsidiary
 subsidies
 subsiding
-subsidisation
+subsidization
 subsidise
 subsidised
 subsidises
@@ -72386,7 +72387,7 @@ sumburgh
 summa
 summaries
 summarily
-summarisation
+summarization
 summarise
 summarised
 summarises
@@ -73250,7 +73251,7 @@ symbol
 symbolic
 symbolical
 symbolically
-symbolisation
+symbolization
 symbolise
 symbolised
 symbolises
@@ -73311,7 +73312,7 @@ synchromesh
 synchronic
 synchronically
 synchronies
-synchronisation
+synchronization
 synchronise
 synchronised
 synchroniser
@@ -73416,7 +73417,7 @@ syrupy
 system
 systematic
 systematically
-systematisation
+systematization
 systematise
 systematised
 systematises
@@ -73427,7 +73428,7 @@ systematized
 systematizes
 systematizing
 systemic
-systemisation
+systemization
 systemization
 systems
 systole
@@ -73751,7 +73752,7 @@ tannoy
 tans
 tansies
 tansy
-tantalisation
+tantalization
 tantalise
 tantalised
 tantaliser
@@ -74309,7 +74310,7 @@ temporaries
 temporarily
 temporary
 temporis
-temporisation
+temporization
 temporise
 temporised
 temporiser
@@ -74477,7 +74478,7 @@ tergiversate
 tergiversated
 tergiversates
 tergiversating
-tergiversation
+tergiverzation
 teriyaki
 teriyakis
 term
@@ -74555,7 +74556,7 @@ territorially
 territories
 territory
 terror
-terrorisation
+terrorization
 terrorise
 terrorised
 terrorises
@@ -75904,7 +75905,7 @@ tot
 total
 totaled
 totaling
-totalisation
+totalization
 totalisator
 totalise
 totalised
@@ -76236,7 +76237,7 @@ tranquilizer
 tranquilizers
 tranquilizes
 tranquilizing
-tranquillisation
+tranquillization
 tranquillise
 tranquillised
 tranquilliser
@@ -79042,7 +79043,7 @@ uninvited
 uninviting
 uninvolved
 union
-unionisation
+unionization
 unionise
 unionised
 unionises
@@ -79074,8 +79075,8 @@ unite
 united
 unites
 uniting
-unitisation
-unitisations
+unitization
+unitizations
 unitise
 unitised
 unitises
@@ -80152,7 +80153,7 @@ uranus
 urban
 urbane
 urbanely
-urbanisation
+urbanization
 urbanise
 urbanised
 urbanises
@@ -80266,7 +80267,7 @@ uterus
 uteruses
 utica
 utile
-utilisation
+utilization
 utilise
 utilised
 utiliser
@@ -80356,7 +80357,7 @@ vacuities
 vacuity
 vacuole
 vacuoles
-vacuolisation
+vacuolization
 vacuolization
 vacuous
 vacuously
@@ -80441,8 +80442,8 @@ valley
 valleys
 valor
 valorem
-valorisation
-valorisations
+valorization
+valorizations
 valorise
 valorised
 valorises
@@ -80535,7 +80536,7 @@ vapidity
 vapidly
 vapor
 vaporisable
-vaporisation
+vaporization
 vaporise
 vaporised
 vaporiser
@@ -80825,8 +80826,8 @@ veray
 verb
 verba
 verbal
-verbalisation
-verbalisations
+verbalization
+verbalizations
 verbalise
 verbalised
 verbalises
@@ -81079,7 +81080,7 @@ vicissitudes
 vickers
 vicki
 victim
-victimisation
+victimization
 victimise
 victimised
 victimiser
@@ -81356,8 +81357,8 @@ visors
 vista
 vistas
 visual
-visualisation
-visualisations
+visualization
+visualizations
 visualise
 visualised
 visualises
@@ -81373,7 +81374,7 @@ visus
 vita
 vitae
 vital
-vitalisation
+vitalization
 vitalise
 vitalised
 vitalises
@@ -81460,7 +81461,7 @@ vocabularies
 vocabulary
 vocal
 vocalic
-vocalisation
+vocalization
 vocalise
 vocalised
 vocalises
@@ -81511,7 +81512,7 @@ voile
 voiles
 voir
 volatile
-volatilisation
+volatilization
 volatilise
 volatilised
 volatilises
@@ -81643,7 +81644,7 @@ voyeurs
 vroom
 vu
 vulcan
-vulcanisation
+vulcanization
 vulcanise
 vulcanised
 vulcanises
@@ -81657,8 +81658,8 @@ vulcanizing
 vulcanologist
 vulg
 vulgar
-vulgarisation
-vulgarisations
+vulgarization
+vulgarizations
 vulgarise
 vulgarised
 vulgarises
@@ -84096,7 +84097,3 @@ zygotes
 zygotic
 zymology
 zymurgy
-clat
-lan
-migrs
-poque
